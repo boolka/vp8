@@ -1,0 +1,15 @@
+{
+	"name": "vp8",
+	"description": "8 bit virtual processor",
+	"version": "0.0.5",
+	"license": "MIT",
+	"repository":{
+		"type" : "git",
+		"url" : "https://github.com/boolka/vp8"
+	},
+	"author": {
+		"name": "Ragim Ibragimov",
+		"email": "boolka989@gmail.com",
+		"url": "https://github.com/boolka"
+	}
+}
